@@ -1,5 +1,6 @@
 Objective:-
-          1) To perform Import our data and visualize our data
+          
+          1) To Import our packages, data and visualize it.
           
           2) Train and Test the model
           
